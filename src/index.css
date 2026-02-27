@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+html, body {
+  overflow-x: hidden;
+}
+
+/* .swiper {
+  position: relative;
+  z-index: 0;
+} */
+
+/* 🧩 Fix Swiper stacking issue */
+.swiper, .swiper-wrapper, .swiper-slide {
+  z-index: 0 !important;
+}
