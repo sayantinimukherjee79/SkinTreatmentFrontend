@@ -113,7 +113,7 @@ The project follows a modular and reusable component structure, making it scalab
 
 ⚙️ Installation & Setup
 1️⃣ Clone the repository
-git clone (https://github.com/sayantinimukherjee79/SkinTreatmentFrontend).git
+git clone https://github.com/sayantinimukherjee79/SkinTreatmentFrontend.git
 2️⃣ Navigate into the project
 cd skintreatment
 3️⃣ Install dependencies
