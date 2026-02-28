@@ -105,15 +105,11 @@ The project follows a modular and reusable component structure, making it scalab
 
 🖼️ Screenshots
 
-📌 Replace these image paths with your actual uploaded screenshots inside a /screenshots folder in your GitHub repo.
-
-🏠 Home Page
-
-💉 Services Page
-
-📅 Appointment Section
-
-📞 Contact Page
+![Home Page Screenshot](./screenshots/homepage.png)
+![About Page Screenshot](./screenshots/AboutPage.png)
+![Appointment Page Screenshot](./screenshots/AppointmentPage.png)
+![Contact Page Screenshot](./screenshots/ContactPage.png)
+![Therapy Page Screenshot](./screenshots/therapyPage.png)
 
 ⚙️ Installation & Setup
 1️⃣ Clone the repository
